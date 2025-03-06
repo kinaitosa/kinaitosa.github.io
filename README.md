@@ -1,2 +1,2 @@
 # kinaitosa.github.io
-Link:homwork2-1.html
+Link:kinaitosa.github.io/homwork2-1.html
