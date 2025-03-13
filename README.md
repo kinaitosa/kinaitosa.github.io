@@ -1,7 +1,6 @@
-# kinaitosa.github.io   
+## 20221143 서준영
 
 * * *
-20221143 서준영
 
 - [**homework2-1**](homework2-1.html)   
   - [**homework2-1** _0312 강의시간 작성_](homework2-1-0312.html)
