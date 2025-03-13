@@ -3,6 +3,8 @@
 
 * * *
 
+<img src="cat.png" width="300" alt="cat">
+
 - [**homework2-1**](homework2-1.html)   
   - [**homework2-1** _0312 강의시간 작성_](homework2-1-0312.html)
 - [**homework2-2**](homework2-2.html)   
