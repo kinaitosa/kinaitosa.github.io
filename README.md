@@ -12,5 +12,6 @@
 - [**homework2-4**](webprograming/homework2-4.html)
 - [**css_demo**](webprograming/css_demo.html)
 - [**homework3-1**](webprograming/homework3-1.png)
-- <img src="webprograming/homework3-1.png" width="300" alt="homework3-1">
+  <img src="webprograming/homework3-1.png" width="300" alt="homework3-1">
+
 * * *
