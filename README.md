@@ -18,15 +18,15 @@
 
 <img src="webprograming/homework3-2.png" width="300" alt="homework3-2">
 
-- [**homework3-1**](webprograming/homework3-2.png)
+- [**homework3-2**](webprograming/homework3-2.png)
 
 <img src="webprograming/homework3-3.png" width="300" alt="homework3-3">
 
-- [**homework3-1**](webprograming/homework3-3.png)
+- [**homework3-3**](webprograming/homework3-3.png)
 
 <img src="webprograming/homework3-4.png" width="300" alt="homework3-4">
 
-- [**homework3-1**](webprograming/homework3-4.png)
+- [**homework3-4**](webprograming/homework3-4.png)
 
 
 * * *
