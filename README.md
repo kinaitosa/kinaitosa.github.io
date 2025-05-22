@@ -33,6 +33,8 @@
 - [**homework3-5**](webprograming/homework3-5.png)
 
 - [**homework5 clock**](webprograming/clock.html)
+  - [css](webprograming/clock.css)
+  - [js](webprograming/clock.js)
 
 
 * * *
