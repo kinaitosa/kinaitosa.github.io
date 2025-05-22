@@ -32,6 +32,29 @@
 
 - [**homework3-5**](webprograming/homework3-5.png)
 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="./clock.css">
+<div class="clock">
+    <div>
+        <div class="info date"></div>
+        <div class="info day"></div>
+    </div>
+    <div class="dot"></div>
+    <div>
+        <div class="hour-hand"></div>
+        <div class="minute-hand"></div>
+        <div class="second-hand"></div>
+    </div>
+    <div>
+        <span class="h3">Ⅲ</span>
+        <span class="h6">Ⅵ</span>
+        <span class="h9">Ⅳ</span>
+        <span class="h12">Ⅻ</span>
+    </div>
+    <div class="diallines"></div>
+</div>
+<script src="./clock.js"></script>
 - [**homework5 clock**](webprograming/clock.html)
   - [css](webprograming/clock.css)
   - [js](webprograming/clock.js)
