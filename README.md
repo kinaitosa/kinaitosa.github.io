@@ -32,7 +32,7 @@
 
 - [**homework3-5**](webprograming/homework3-5.png)
 
-- [**clock**](webprograming/clock.html)
+- [**homework5 clock**](webprograming/clock.html)
 
 
 * * *
